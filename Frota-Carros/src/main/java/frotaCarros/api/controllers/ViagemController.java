@@ -44,28 +44,28 @@ public class ViagemController {
 		carro2.setId(2);
 		carro2.setModelo("HB20");
 		carro2.setCategoria(Categoria.EXECUTIVE);
-		carro2.setStatus(Status.FINISHING_RACE);
+		carro2.setStatus(Status.WAITING_FOR_RACE);
 		carro2.setLatitude(29.46786);
 		carro2.setLongitude(-99.53506);
 
 		carro3.setId(3);
 		carro3.setModelo("SANDERO");
 		carro3.setCategoria(Categoria.SPECIAL);
-		carro3.setStatus(Status.INACTIVE);
-		carro3.setLatitude(29.46786);
-		carro3.setLongitude(-98.53506);
+		carro3.setStatus(Status.WAITING_FOR_RACE);
+		carro3.setLatitude(-23.574165);
+		carro3.setLongitude(-46.623248);
 
 		carro4.setId(4);
 		carro4.setModelo("COROLA");
 		carro4.setCategoria(Categoria.SHARED);
-		carro4.setStatus(Status.UNDER_MAINTENANCE);
+		carro4.setStatus(Status.WAITING_FOR_RACE);
 		carro4.setLatitude(29.46786);
 		carro4.setLongitude(-98.53506);
 
 		carro5.setId(5);
 		carro5.setModelo("ASTRA");
 		carro5.setCategoria(Categoria.SPECIAL);
-		carro5.setStatus(Status.RUNNING_IN_PROGRESS);
+		carro5.setStatus(Status.WAITING_FOR_RACE);
 		carro5.setLatitude(29.46786);
 		carro5.setLongitude(-98.53506);
 
