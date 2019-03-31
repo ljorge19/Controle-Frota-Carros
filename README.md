@@ -9,7 +9,7 @@
 
 ***** coordenadas para teste ********
 
-o carro sandeiro está localizado no endereço da FIAP
+o carro SANDERO está localizado no endereço da FIAP
 
 FIAP Av. Lins de Vasconcelos, 1222 - Aclimação, São Paulo - SP, 01538-001 -23.574165, -46.623248
 
